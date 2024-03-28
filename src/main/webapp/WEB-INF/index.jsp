@@ -9,6 +9,6 @@
 <body>
 
 	<h3>CICD 연습 </h3>
-	<img src="image/camera1.jpg" alt="카메라">
+	<img src="image/camera.png" alt="카메라">
 </body>
 </html>
